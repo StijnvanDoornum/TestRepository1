@@ -1,0 +1,1 @@
+web: gunicorn dbl_project.wsgi --log-file -
